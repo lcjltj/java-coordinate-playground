@@ -24,3 +24,10 @@ git checkout main // 기본 브랜치가 main인 경우
 git checkout -b 브랜치이름
 ex) git checkout -b apply-feedback
 ```
+
+
+## Step1. 연료 주입
+
+#### 요구 사항
+ - 상속과 추상 메소드를 사용한다.
+ - if / else 을 사용하지 않는다.
